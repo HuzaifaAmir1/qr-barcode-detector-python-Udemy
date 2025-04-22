@@ -25,20 +25,3 @@ Detect barcodes and QR codes in any image using Python, OpenCV, and Pyzbar.
 | `requirements.txt`        | List of required Python packages              |
 
 ---
-
-## ⚙️ Installation
-
-Install the required packages before running:
-
-```bash
-pip install opencv-python pyzbar numpy
-
-### ✅ What To Do Next
-
-1. Go to your repo  
-2. Click **Add File → Create new file**  
-3. Name it `README.md`  
-4. Paste this full content above  
-5. Commit it — and you’re done 🔥
-
-Want me to insert **your real name**, **GitHub profile**, or a **custom QR image preview** in the README? Just drop your info here and I’ll plug it in perfectly.
