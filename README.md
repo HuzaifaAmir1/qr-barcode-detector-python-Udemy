@@ -3,7 +3,6 @@
 Detect barcodes and QR codes in any image using Python, OpenCV, and Pyzbar.
 
 ![QR Barcode Demo](input_image.jpeg)
-![QR Barcode Demo](output2.png)
 
 ## 🚀 Features
 
@@ -14,6 +13,7 @@ Detect barcodes and QR codes in any image using Python, OpenCV, and Pyzbar.
 
 ## 🧪 Sample Output
 
+![QR Barcode Demo](output2.png)
 
 ---
 
@@ -26,3 +26,5 @@ Detect barcodes and QR codes in any image using Python, OpenCV, and Pyzbar.
 | `requirements.txt`        | List of required Python packages              |
 
 ---
+
+
