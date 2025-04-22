@@ -7,7 +7,7 @@ Detect barcodes and QR codes in any image using Python, OpenCV, and Pyzbar.
 <!-- Display two images side by side -->
 <p float="left">
   <img src="input_image.jpeg" width="35%" />
-  <img src="output2.PNG" width="45%" />
+  <img src="output2.PNG" width="53%" />
 </p>
 
 
